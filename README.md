@@ -187,7 +187,7 @@ This project is open source and available for educational purposes.
 
 ## Author 👨‍💻
 
-Created by Master IDL - January 2026
+Created by Moetez JLIDI
 
 ## Acknowledgments 🙏
 
